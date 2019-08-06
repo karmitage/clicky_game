@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "image": "brutalist1.jpg"
+    },
+    {
+        "id": 2,
+        "image": "brutalist2.jpeg"
+    },
+    {
+        "id": 3,
+        "image": "brutalist3.jpg"
+    },
+    {
+        "id": 4,
+        "image": "brutalist4.jpg"
+    },
+    {
+        "id": 5,
+        "image": "brutalist5.jpg"
+    },
+    {
+        "id": 6,
+        "image": "brutalist6.jpg"
+    },
+    {
+        "id": 7,
+        "image": "brutalist7.jpg"
+    },
+    {
+        "id": 8,
+        "image": "brutalist8.jpg"
+    },
+    {
+        "id": 9,
+        "image": "brutalist9.jpg"
+    },
+    {
+        "id": 10,
+        "image": "brutalist10.jpg"
+    },
+    {
+        "id": 11,
+        "image": "brutalist11.JPG"
+    },
+    {
+        "id": 12,
+        "image": "brutalist12.jpg"
+    }
+]
